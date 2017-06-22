@@ -1,10 +1,10 @@
-# calligraphy
-Handwriting recognition and, handwritten text generation software.
+---
+title: Project Title
+project: calligraphy
+---
 
-## What? Why?
-### What?
-Calligraphy is a data driven handwriting recognition software that customizes to specific people. 
+# Calligraphy
 
-### Why?
-Indian universities, much like the Indian education system, is big on handwriting even the most miniscule tasks. We are to write almost everything; making the learning part and, the writing part very mundane.
-The aim is to start recognizing handwritng and, subsequently, print text that imitates the handwriting.
+Calligraphy is a handwriting recognition app that converts written text to pdf. Further, it allows for adding these pdfs to your cloud storage of choice. This is implemented through reinforment learning algorithm.
+
+_It is currently under development. For updates, subscribe to the mailing list._
